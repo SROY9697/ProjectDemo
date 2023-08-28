@@ -1,3 +1,4 @@
 # ProjectDemo
 This is my first demo project.
-Author : Subhrajit Roy
+<br>
+<h3>Author</h3> : <em>Subhrajit Roy</em>
